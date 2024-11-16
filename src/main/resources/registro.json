@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Juan",
+    "apellido": "Perez",
+    "correo": "juan.perez@example.com",
+    "dni": "12345678",
+    "descripcion": "Revisión técnica para automóvil.",
+    "enabled": true,
+    "fechaRegistro": "2024-08-26T19:40:38"
+  },
+  {
+    "name": "Maria",
+    "apellido": "Lopez",
+    "correo": "maria.lopez@example.com",
+    "dni": "87654321",
+    "descripcion": "Revisión técnica para motocicleta.",
+    "enabled": true,
+    "fechaRegistro": "2024-08-27T15:20:14"
+  },
+  {
+    "name": "Carlos",
+    "apellido": "Garcia",
+    "correo": "carlos.garcia@example.com",
+    "dni": "34567890",
+    "descripcion": "Revisión técnica para camión.",
+    "enabled": false,
+    "fechaRegistro": "2024-08-28T08:10:45"
+  },
+  {
+    "name": "Ana",
+    "apellido": "Torres",
+    "correo": "ana.torres@example.com",
+    "dni": "98765432",
+    "descripcion": "Revisión técnica para automóvil.",
+    "enabled": true,
+    "fechaRegistro": "2024-08-29T12:05:30"
+  },
+  {
+    "name": "Luis",
+    "apellido": "Fernandez",
+    "correo": "luis.fernandez@example.com",
+    "dni": "45678901",
+    "descripcion": "Revisión técnica para autobús.",
+    "enabled": true,
+    "fechaRegistro": "2024-08-30T17:45:22"
+  },
+  {
+    "name": "Sofia",
+    "apellido": "Ramirez",
+    "correo": "sofia.ramirez@example.com",
+    "dni": "12398745",
+    "descripcion": "Inspección de emisiones.",
+    "enabled": false,
+    "fechaRegistro": "2024-08-31T11:15:09"
+  },
+  {
+    "name": "Pedro",
+    "apellido": "Mendoza",
+    "correo": "pedro.mendoza@example.com",
+    "dni": "78901234",
+    "descripcion": "Revisión técnica para remolque.",
+    "enabled": true,
+    "fechaRegistro": "2024-09-01T09:30:18"
+  },
+  {
+    "name": "Lucia",
+    "apellido": "Vega",
+    "correo": "lucia.vega@example.com",
+    "dni": "56789012",
+    "descripcion": "Inspección general del vehículo.",
+    "enabled": true,
+    "fechaRegistro": "2024-09-02T14:50:45"
+  },
+  {
+    "name": "Diego",
+    "apellido": "Castro",
+    "correo": "diego.castro@example.com",
+    "dni": "89012345",
+    "descripcion": "Revisión técnica de frenos.",
+    "enabled": false,
+    "fechaRegistro": "2024-09-03T10:40:33"
+  },
+  {
+    "name": "Isabel",
+    "apellido": "Silva",
+    "correo": "isabel.silva@example.com",
+    "dni": "90123456",
+    "descripcion": "Inspección de seguridad.",
+    "enabled": true,
+    "fechaRegistro": "2024-09-04T13:25:50"
+  },
+  {
+    "name": "Alberto",
+    "apellido": "Rojas",
+    "correo": "alberto.rojas@example.com",
+    "dni": "23456789",
+    "descripcion": "Revisión técnica para motocicleta.",
+    "enabled": true,
+    "fechaRegistro": "2024-09-05T16:20:44"
+  },
+  {
+    "name": "Andrea",
+    "apellido": "Campos",
+    "correo": "andrea.campos@example.com",
+    "dni": "34567812",
+    "descripcion": "Revisión técnica para automóvil.",
+    "enabled": false,
+    "fechaRegistro": "2024-09-06T18:15:37"
+  },
+  {
+    "name": "Jorge",
+    "apellido": "Morales",
+    "correo": "jorge.morales@example.com",
+    "dni": "45678923",
+    "descripcion": "Revisión técnica para camión.",
+    "enabled": true,
+    "fechaRegistro": "2024-09-07T07:45:29"
+  },
+  {
+    "name": "Valeria",
+    "apellido": "Gutierrez",
+    "correo": "valeria.gutierrez@example.com",
+    "dni": "56789034",
+    "descripcion": "Inspección de emisiones.",
+    "enabled": true,
+    "fechaRegistro": "2024-09-08T20:10:50"
+  },
+  {
+    "name": "Miguel",
+    "apellido": "Cruz",
+    "correo": "miguel.cruz@example.com",
+    "dni": "67890145",
+    "descripcion": "Revisión técnica para remolque.",
+    "enabled": false,
+    "fechaRegistro": "2024-09-09T23:55:19"
+  }
+]
