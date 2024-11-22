@@ -37,8 +37,8 @@ public class RegistroServiceImpl implements IRegistroService {
     }
 
     @Override
-    public Registro alterar(Integer id, Registro registro) throws Exception {
-        repo.findById(id).orElse(null);
+    public Registro alterar(Registro registro) throws Exception {
+        //repo.findById(id).orElse(null);
         return repo.save(registro);
     }
 }

@@ -11,14 +11,14 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("registros/")
+@RequestMapping("/registros")
 @RequiredArgsConstructor
 public class RegistroController {
 
     //ioc service impl
     private final RegistroServiceImpl service;
 
-    @GetMapping("/listar")
+    @GetMapping
     public ResponseEntity<List<Registro>> listar() throws Exception {
         List<Registro>  listado = service.listarTodo();
         return new ResponseEntity<>(listado, HttpStatus.OK);
@@ -30,16 +30,16 @@ public class RegistroController {
         return new ResponseEntity<>(buscarPorId,HttpStatus.OK);
     }
 
-    @PostMapping("/registrar")
-    public ResponseEntity<Registro> registrar(@RequestBody Registro registro) throws Exception {
+    @PostMapping
+    public ResponseEntity<Void> registrar(@RequestBody Registro registro) throws Exception {
         Registro add =  service.salvar(registro);
-        return new ResponseEntity<>(add, HttpStatus.CREATED);
+        return new ResponseEntity<>(HttpStatus.CREATED);
     }
 
-    @PutMapping("/{id}")
-    public ResponseEntity<Registro> update(@PathVariable("id") Integer id, @RequestBody Registro registro) throws Exception {
-        registro.setIdRegistro(id);
-        Registro upd =  service.alterar(id,registro);
+    @PutMapping
+    public ResponseEntity<Registro> update( @RequestBody Registro registro) throws Exception {
+        //registro.setIdRegistro(id);
+        Registro upd =  service.alterar(registro);
         return new ResponseEntity<>(upd, HttpStatus.OK);
     }
 

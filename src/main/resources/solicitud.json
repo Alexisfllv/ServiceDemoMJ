@@ -1,0 +1,202 @@
+[
+  {
+    "idSolicitud": 1,
+    "nombre": "Carlos",
+    "apellido": "Pérez",
+    "direccion": "Av. La Marina 1234",
+    "telefono": "987654321",
+    "correo": "carlos.perez@gmail.com",
+    "tipoServicio": "INSTALACION",
+    "descripcion": "Instalación de sistema de aire acondicionado en oficina."
+  },
+  {
+    "idSolicitud": 2,
+    "nombre": "Lucía",
+    "apellido": "Gómez",
+    "direccion": "Calle Ficticia 456",
+    "telefono": "981234567",
+    "correo": "lucia.gomez@hotmail.com",
+    "tipoServicio": "REPARACION",
+    "descripcion": "Reparación de televisor que no enciende."
+  },
+  {
+    "idSolicitud": 3,
+    "nombre": "Juan",
+    "apellido": "Martínez",
+    "direccion": "Calle Sol 789",
+    "telefono": "999876543",
+    "correo": "juan.martinez@yahoo.com",
+    "tipoServicio": "MANTENIMIENTO",
+    "descripcion": "Mantenimiento preventivo de caldera de gas."
+  },
+  {
+    "idSolicitud": 4,
+    "nombre": "Ana",
+    "apellido": "López",
+    "direccion": "Calle Mar 101",
+    "telefono": "921234567",
+    "correo": "ana.lopez@gmail.com",
+    "tipoServicio": "INSTALACION",
+    "descripcion": "Instalación de sistema de seguridad para la casa."
+  },
+  {
+    "idSolicitud": 5,
+    "nombre": "Pedro",
+    "apellido": "Ramírez",
+    "direccion": "Av. Los Álamos 2020",
+    "telefono": "912345678",
+    "correo": "pedro.ramirez@outlook.com",
+    "tipoServicio": "REPARACION",
+    "descripcion": "Reparación de computadora portátil con pantalla rota."
+  },
+  {
+    "idSolicitud": 6,
+    "nombre": "María",
+    "apellido": "Sánchez",
+    "direccion": "Calle Luna 234",
+    "telefono": "930123456",
+    "correo": "maria.sanchez@gmail.com",
+    "tipoServicio": "MANTENIMIENTO",
+    "descripcion": "Mantenimiento del sistema eléctrico de la casa."
+  },
+  {
+    "idSolicitud": 7,
+    "nombre": "José",
+    "apellido": "Fernández",
+    "direccion": "Calle Tierra 567",
+    "telefono": "943212345",
+    "correo": "jose.fernandez@outlook.com",
+    "tipoServicio": "EXTRAS",
+    "descripcion": "Adición de nuevos electrodomésticos a la cocina."
+  },
+  {
+    "idSolicitud": 8,
+    "nombre": "Paula",
+    "apellido": "Vásquez",
+    "direccion": "Av. Victoria 4321",
+    "telefono": "951987654",
+    "correo": "paula.vasquez@gmail.com",
+    "tipoServicio": "INSTALACION",
+    "descripcion": "Instalación de cámaras de vigilancia en el hogar."
+  },
+  {
+    "idSolicitud": 9,
+    "nombre": "Carlos",
+    "apellido": "Gutiérrez",
+    "direccion": "Calle Águila 876",
+    "telefono": "960123456",
+    "correo": "carlos.gutierrez@hotmail.com",
+    "tipoServicio": "REPARACION",
+    "descripcion": "Reparación de cocina eléctrica con fallas en los quemadores."
+  },
+  {
+    "idSolicitud": 10,
+    "nombre": "Fernanda",
+    "apellido": "Chavez",
+    "direccion": "Calle Cielo 999",
+    "telefono": "965432109",
+    "correo": "fernanda.chavez@yahoo.com",
+    "tipoServicio": "MANTENIMIENTO",
+    "descripcion": "Mantenimiento general de sistema de calefacción."
+  },
+  {
+    "idSolicitud": 11,
+    "nombre": "Ricardo",
+    "apellido": "Torres",
+    "direccion": "Calle Sol 101",
+    "telefono": "945678901",
+    "correo": "ricardo.torres@gmail.com",
+    "tipoServicio": "INSTALACION",
+    "descripcion": "Instalación de red eléctrica para nueva oficina."
+  },
+  {
+    "idSolicitud": 12,
+    "nombre": "Verónica",
+    "apellido": "Hernández",
+    "direccion": "Av. Santa Rosa 1111",
+    "telefono": "918234567",
+    "correo": "veronica.hernandez@hotmail.com",
+    "tipoServicio": "REPARACION",
+    "descripcion": "Reparación de refrigeradora que no enfría correctamente."
+  },
+  {
+    "idSolicitud": 13,
+    "nombre": "Manuel",
+    "apellido": "Paredes",
+    "direccion": "Calle Río 2222",
+    "telefono": "990123456",
+    "correo": "manuel.paredes@yahoo.com",
+    "tipoServicio": "MANTENIMIENTO",
+    "descripcion": "Mantenimiento de generador eléctrico."
+  },
+  {
+    "idSolicitud": 14,
+    "nombre": "Liliana",
+    "apellido": "Suárez",
+    "direccion": "Av. Pacífico 6543",
+    "telefono": "953278901",
+    "correo": "liliana.suarez@gmail.com",
+    "tipoServicio": "EXTRAS",
+    "descripcion": "Mejora de iluminación en el jardín."
+  },
+  {
+    "idSolicitud": 15,
+    "nombre": "Iván",
+    "apellido": "Díaz",
+    "direccion": "Calle Horizonte 300",
+    "telefono": "922334455",
+    "correo": "ivan.diaz@hotmail.com",
+    "tipoServicio": "INSTALACION",
+    "descripcion": "Instalación de sistema de riego automático."
+  },
+  {
+    "idSolicitud": 16,
+    "nombre": "Eva",
+    "apellido": "Mendoza",
+    "direccion": "Av. Libertad 555",
+    "telefono": "932112233",
+    "correo": "eva.mendoza@gmail.com",
+    "tipoServicio": "REPARACION",
+    "descripcion": "Reparación de sistema de aire acondicionado que no enfriaba."
+  },
+  {
+    "idSolicitud": 17,
+    "nombre": "Oscar",
+    "apellido": "Jiménez",
+    "direccion": "Calle Esperanza 423",
+    "telefono": "924567890",
+    "correo": "oscar.jimenez@outlook.com",
+    "tipoServicio": "MANTENIMIENTO",
+    "descripcion": "Mantenimiento de sistema hidráulico de la piscina."
+  },
+  {
+    "idSolicitud": 18,
+    "nombre": "Sofía",
+    "apellido": "Paz",
+    "direccion": "Calle Aventura 890",
+    "telefono": "977654321",
+    "correo": "sofia.paz@gmail.com",
+    "tipoServicio": "INSTALACION",
+    "descripcion": "Instalación de sistema de iluminación inteligente en la casa."
+  },
+  {
+    "idSolicitud": 19,
+    "nombre": "Eugenio",
+    "apellido": "Castillo",
+    "direccion": "Av. San Juan 701",
+    "telefono": "930876543",
+    "correo": "eugenio.castillo@hotmail.com",
+    "tipoServicio": "REPARACION",
+    "descripcion": "Reparación de impresora láser que no imprime."
+  },
+  {
+    "idSolicitud": 20,
+    "nombre": "Lina",
+    "apellido": "Vega",
+    "direccion": "Calle Sol 5555",
+    "telefono": "919876543",
+    "correo": "lina.vega@yahoo.com",
+    "tipoServicio": "EXTRAS",
+    "descripcion": "Instalación de sistema de sonido envolvente en la sala de estar."
+  }
+]
